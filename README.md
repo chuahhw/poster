@@ -1,7 +1,7 @@
 # Assignment 1 (Format: Poster) Industrial talk 1
 <h2>Introduction</h2>
 <p>The industrial talk 1 which was given by workers in Clarity Techworks was held on 14 November 2023. It was held from 2.30pm to 4.30pm. The speakers are Ms Liyana, Mr Yee, Ms Syarifah, Mr Ridwan, Ms Izzah and Mr Saiful.</p>
-<p> Poster</p>
+<h2> Poster</h2>
 <img src="https://github.com/chuahhw/poster/assets/147809633/797d0543-dbfb-49b0-a616-c5e9f7559919" />
 <p>Credits</p>
 <img src="https://github.com/chuahhw/poster/assets/147809633/483c3b84-a9d6-40cd-ae79-5a81f1125173" />
